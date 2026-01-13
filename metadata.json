@@ -1,0 +1,7 @@
+{
+  "name": "PixelForge AI Studio",
+  "description": "An all-in-one AI-powered pixel art game development suite. Brainstorm game mechanics, generate pixel art assets with Gemini, and design levels in a retro-inspired workspace.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
